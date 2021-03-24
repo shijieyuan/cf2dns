@@ -15,7 +15,7 @@ from dns.qCloud import QcloudApi
 from dns.aliyun import AliApi
 
 #可以从https://shop.hostmonit.com获取
-KEY = "shahou123"
+KEY = "o1zrmHAF"
 
 #CM:移动 CU:联通 CT:电信
 #修改需要更改的dnspod域名核子域名
