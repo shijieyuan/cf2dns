@@ -20,7 +20,7 @@ KEY = "o1zrmHAF"
 #CM:移动 CU:联通 CT:电信
 #修改需要更改的dnspod域名核子域名
 DOMAINS = {
-    "shahou123.top": {"cf": ["CM","CU","CT"], "shop": ["CM", "CU", "CT"], "stock": ["CM","CU","CT"]},
+    "shahou123.top": {"cf": ["CM"], "shop": ["CM", "CU", "CT"], "stock": ["CM","CU","CT"]},
     "4096.me": {"@": ["CM","CU","CT"], "vv": ["CM","CU","CT"]}
 }
 
